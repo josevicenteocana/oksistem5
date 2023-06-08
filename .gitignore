@@ -9,3 +9,4 @@ eds/__pycache__
 eds/migrations
 eds/__init__.py
 eds/tests.py
+eds/static/img
